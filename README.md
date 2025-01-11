@@ -37,7 +37,7 @@
 ### О структуре проекта:
 * [Contextual_translation_of_scientific_articles.ipynb](Contextual_translation_of_scientific_articles.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются методы и подходы решения задачи
 * [train.xlsx](train.xlsx) - файл train, содержащий данные тренировочной выборки
-* [test.xlsx](test.xlsx) - файл test, содержащий данные тестововй выборки
+* [test.xlsx](test.xlsx) - файл test, содержащий данные тестовой выборки
 * [multiT5-3tasks-titles_scientific_articles.pth](https://drive.google.com/file/d/1s7xSJ-D5QSvd1UIg7KExHXi1tDNXvVZg/view?usp=drive_link) - обученная модель, которая используется в ноутбуке
 * [Leninka.ipynb](Leninka.ipynb) - jupyter-ноутбук, содержащий код для парсинга названий научных статей из одной из онлайн библиотек
 * [titles_scientific_articles_Leninka.csv](titles_scientific_articles_Leninka.csv) - файл csv, содержащий названия 20 тыс статей, полученных в результате парсинга
