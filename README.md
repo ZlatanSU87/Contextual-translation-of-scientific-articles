@@ -60,6 +60,4 @@
 
 В результате получена модель с наиболее корректным переводом текста для соответствующей научной области, которая также реализует дополнительные задачи по классификации факультета и направления исходя из названия статьи.
 
-<p align="center">
-<img src=C:\Users\ceasa\IDE\test 2\project_1\Skillfactory\hackathon\output_bar.png width=600px>
-</p>
+<img src=output_bar.png width=700px height=10%>
